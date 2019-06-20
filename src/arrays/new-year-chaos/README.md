@@ -21,11 +21,11 @@ Complete the function `minimumBribes`. It must print an integer representing the
 ## Running the Algorithm
 
 ```
-$ alg new-year-chaos <input>
+$ run-alg new-year-chaos <input>
 ```
 
 Example:
 
 ```
-$ alg new-year-chaos 2 1 5 3 4    // prints 3
+$ run-alg new-year-chaos 2 1 5 3 4    // prints 3
 ```
