@@ -7,10 +7,12 @@
   "author": "Narendra Syahrasyad",
   "license": "MIT",
   "bin": {
-    "alg": "./cli.js"
+    "run-alg": "./run-alg.js",
+    "create-alg": "./create-alg.js"
   },
   "dependencies": {
-    "dsa.js": "^1.2.3"
+    "dsa.js": "^1.2.3",
+    "yargs": "^13.2.4"
   },
   "devDependencies": {
     "eslint": "5.3.0",
